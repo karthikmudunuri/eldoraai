@@ -1,7 +1,7 @@
 # EldoraAI
 
 <p align="center">
-  <img src="[./assets/openui.png](https://github.com/user-attachments/assets/c3cde579-00b3-4777-8600-15dff92e9a51)" width="150" alt="OpenUI" />
+  <img src="https://github.com/user-attachments/assets/c3cde579-00b3-4777-8600-15dff92e9a51" width="150" alt="EldoraAi" />
 </p>
 
 Building UI components can be a slog.  OpenUI aims to make the process fun, fast, and flexible.  It's also a tool we're using at [W&B](https://wandb.com) to test and prototype our next generation tooling for building powerful applications on top of LLM's.
